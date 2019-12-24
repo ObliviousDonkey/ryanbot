@@ -44,3 +44,4 @@ To add your bot to your server go to this site
 
 [![Discord Bots](https://discordbots.org/api/widget/450233057908097024.svg)](https://discordbots.org/bot/450233057908097024)
 [![Bots For Discord](https://botsfordiscord.com/api/v1/bots/450233057908097024/embed?theme=dark)](https://botsfordiscord.com/bot/450233057908097024)
+[![Run on Repl.it](https://repl.it/badge/github/ryanshds/ryanbot)](https://repl.it/github/ryanshds/ryanbot)
